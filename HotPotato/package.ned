@@ -1,0 +1,3 @@
+package hotpotato;
+
+@license(LGPL);
